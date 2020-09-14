@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342853767392",
+    "firebase_url": "https://qhubekaapp.firebaseio.com",
+    "project_id": "qhubekaapp",
+    "storage_bucket": "qhubekaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342853767392:android:b9e25a2b6f264246ad0085",
+        "android_client_info": {
+          "package_name": "com.fishfingers.qhubeka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342853767392-gj9s2muu2ru6srii9u7f95g56m5udfjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fishfingers.qhubeka",
+            "certificate_hash": "d4cce49ecc2392d4f52b19e5b3d990d9f566a373"
+          }
+        },
+        {
+          "client_id": "342853767392-aeo45aeijvbdtqq1tuqbp1ev54np7h5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQQAN024aMOQ0Bx4EtqLp5WqBeybhBjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342853767392-aeo45aeijvbdtqq1tuqbp1ev54np7h5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
